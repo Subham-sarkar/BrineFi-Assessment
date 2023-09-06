@@ -1,0 +1,31 @@
+order_id,customer_id,order_date,product_id,product_name,product_price,quantity
+1,CUST-001,2022-08-15,PROD-001,Web Hosting Plan,29.99,3
+2,CUST-002,2022-08-20,PROD-002,Cryptocurrency Course,49.99,2
+3,CUST-003,2022-08-25,PROD-003,Smartphone Stand,9.99,4
+4,CUST-001,2022-09-10,PROD-004,Crypto Miner Kit,199.99,1
+5,CUST-004,2022-09-15,PROD-005,Web Development Book,19.99,2
+6,CUST-005,2022-09-20,PROD-006,Blockchain Workshop,99.99,3
+7,CUST-002,2022-10-05,PROD-007,Wireless Headphones,39.99,1
+8,CUST-001,2022-10-10,PROD-008,Crypto Art Print,79.99,2
+9,CUST-003,2022-10-15,PROD-009,Smart Contract Tutorial,29.99,5
+10,CUST-004,2022-11-05,PROD-010,Crypto Wallet,59.99,3
+11,CUST-006,2022-11-15,PROD-001,Web Hosting Plan,29.99,3
+12,CUST-002,2022-11-20,PROD-002,Cryptocurrency Course,49.99,2
+13,CUST-003,2022-12-05,PROD-003,Smartphone Stand,9.99,4
+14,CUST-001,2022-12-10,PROD-004,Crypto Miner Kit,199.99,1
+15,CUST-007,2022-12-15,PROD-005,Web Development Book,19.99,2
+16,CUST-008,2023-01-05,PROD-006,Blockchain Workshop,99.99,3
+17,CUST-005,2023-01-10,PROD-007,Wireless Headphones,39.99,1
+18,CUST-009,2023-01-15,PROD-008,Crypto Art Print,79.99,2
+19,CUST-004,2023-02-05,PROD-009,Smart Contract Tutorial,29.99,5
+20,CUST-010,2023-02-15,PROD-010,Crypto Wallet,59.99,3
+21,CUST-001,2023-02-20,PROD-001,Web Hosting Plan,29.99,3
+22,CUST-002,2023-03-05,PROD-002,Cryptocurrency Course,49.99,2
+23,CUST-003,2023-03-10,PROD-003,Smartphone Stand,9.99,4
+24,CUST-004,2023-03-15,PROD-004,Crypto Miner Kit,199.99,1
+25,CUST-011,2023-04-05,PROD-005,Web Development Book,19.99,2
+26,CUST-012,2023-04-10,PROD-006,Blockchain Workshop,99.99,3
+27,CUST-002,2023-04-15,PROD-007,Wireless Headphones,39.99,1
+28,CUST-001,2023-05-05,PROD-008,Crypto Art Print,79.99,2
+29,CUST-013,2023-05-10,PROD-009,Smart Contract Tutorial,29.99,5
+30,CUST-014,2023-05-15,PROD-010,Crypto Wallet,59.99,3
